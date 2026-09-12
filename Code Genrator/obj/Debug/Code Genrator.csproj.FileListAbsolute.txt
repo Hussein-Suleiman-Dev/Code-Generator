@@ -1,0 +1,15 @@
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.csproj.AssemblyReference.cache
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code_Genrator.frmCodeGenrator.resources
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code_Genrator.Properties.Resources.resources
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.csproj.GenerateResource.cache
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\bin\Debug\Code Genrator.exe.config
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\bin\Debug\Code Genrator.exe
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\bin\Debug\Code Genrator.pdb
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.exe
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.pdb
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code_Genrator.frmCodeGenratorMain.resources
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\bin\Debug\Code Genrator.exe.manifest
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\bin\Debug\Code Genrator.application
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.exe.manifest
+C:\Users\Hussein\source\repos\Code Genrator\Code Genrator\obj\Debug\Code Genrator.application

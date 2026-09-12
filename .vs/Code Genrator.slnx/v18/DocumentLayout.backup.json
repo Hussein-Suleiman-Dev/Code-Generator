@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|c:\\users\\hussein\\source\\repos\\code genrator\\code genrator\\code genrator\\clsdalgenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|solutionrelative:code genrator\\code genrator\\clsdalgenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|c:\\users\\hussein\\source\\repos\\code genrator\\code genrator\\code genrator\\clsgeneratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|solutionrelative:code genrator\\code genrator\\clsgeneratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|c:\\users\\hussein\\source\\repos\\code genrator\\code genrator\\frmcodegenratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|solutionrelative:code genrator\\frmcodegenratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|C:\\Users\\Hussein\\source\\repos\\Code Genrator\\code genrator\\frmcodegenratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|solutionrelative:code genrator\\frmcodegenratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|C:\\Users\\Hussein\\source\\repos\\Code Genrator\\code genrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA25E3E-28D9-4CB0-A057-03A90E49E1F3}|Code Genrator\\Code Genrator.csproj|solutionrelative:code genrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDALGenrator.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Code Genrator\\clsDALGenrator.cs",
+              "RelativeDocumentMoniker": "Code Genrator\\Code Genrator\\clsDALGenrator.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Code Genrator\\clsDALGenrator.cs",
+              "RelativeToolTip": "Code Genrator\\Code Genrator\\clsDALGenrator.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T23:32:37.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsGeneratorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Code Genrator\\clsGeneratorDTO.cs",
+              "RelativeDocumentMoniker": "Code Genrator\\Code Genrator\\clsGeneratorDTO.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Code Genrator\\clsGeneratorDTO.cs",
+              "RelativeToolTip": "Code Genrator\\Code Genrator\\clsGeneratorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T23:32:34.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCodeGenratorMain.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\frmCodeGenratorMain.cs",
+              "RelativeDocumentMoniker": "Code Genrator\\frmCodeGenratorMain.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\frmCodeGenratorMain.cs",
+              "RelativeToolTip": "Code Genrator\\frmCodeGenratorMain.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:15:44.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCodeGenratorMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\frmCodeGenratorMain.cs",
+              "RelativeDocumentMoniker": "Code Genrator\\frmCodeGenratorMain.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\frmCodeGenratorMain.cs [Design]",
+              "RelativeToolTip": "Code Genrator\\frmCodeGenratorMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T21:25:21.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Program.cs",
+              "RelativeDocumentMoniker": "Code Genrator\\Program.cs",
+              "ToolTip": "C:\\Users\\Hussein\\source\\repos\\Code Genrator\\Code Genrator\\Program.cs",
+              "RelativeToolTip": "Code Genrator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T21:25:19.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

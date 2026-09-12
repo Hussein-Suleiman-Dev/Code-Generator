@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Code Genrator.exe" version="1.0.0.0" publicKeyToken="b7c728e6ebecd169" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Code Genrator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Code Genrator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Code Genrator.exe" size="304624">
+      <assemblyIdentity name="Code Genrator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>R0EQ2a6vrfrZl2oprzMHmg/ahyutl1j2l0DT23EU3vI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Code Genrator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-2R09SPQ\Hussein" issuerKeyHash="2054c6da9e758c96ced2ec913cb297910b9a0e92" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eowdizWNqoUbyztVx6Q1vQgyjlUFxLJ5FD0m1H5N12w=</DigestValue></Reference></SignedInfo><SignatureValue>WM/nDg0aMmPrUf1Am3gGFanRCpCAXsCrleVrRu/DCgCq19qlBEzmgyoEo57K0NDBTp3VpAibifhm6TpwFrjUV83K0RPcZJE/BrrCnT4bzDH3y3hCk/IPRLV5DuVz4ORbI8n4jlJ5IQSSZg5D2YrPK3JlCqH22tow6exGCxIMv40=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3RibzzC5ndGXoIRKWsibLdCy9U4wqgdxACZTUAd0OG4sUB1SeujlZqiVxsnyC8VYkHQ9JzzlrTNEg/dIykE4TbslKb6c702+TZq2/v/qg7X2ZJBtLixt/KbRl6WOilQ1nR8Q0ALiKpvPtKIXVEgNIQmHvT/vzT/oYfXoy1GKcwE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6cd74d7ed4263d1479b2c405558e3208bd35a4c7553bcb1b85aa8d358b1d8c7a" Description="" Url=""><as:assemblyIdentity name="Code Genrator.exe" version="1.0.0.0" publicKeyToken="b7c728e6ebecd169" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-2R09SPQ\Hussein</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GsXlapt9g5zESzmH6OawnZcnPP7k3qLM6DHztuHfJdU=</DigestValue></Reference></SignedInfo><SignatureValue>kwiUR1EDXXKpMoyzDioxqE6rsO0cFaTRFwHc2ql0dLvg0+SPLOFtdXLL5EA/BVbs5W+dPuEPUIx0ZeiZpbWobSW8lWNSWvn+YJ1Bg7NVDnKDgt23/kE5r34rZoySzZjOeqkLllkedcvzP9FVgRCuRI/uSSzNgaA+ceu9QCls3fo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3RibzzC5ndGXoIRKWsibLdCy9U4wqgdxACZTUAd0OG4sUB1SeujlZqiVxsnyC8VYkHQ9JzzlrTNEg/dIykE4TbslKb6c702+TZq2/v/qg7X2ZJBtLixt/KbRl6WOilQ1nR8Q0ALiKpvPtKIXVEgNIQmHvT/vzT/oYfXoy1GKcwE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQPeivzqHE2J1K2hY3s27jVzANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtADIAUgAwADkAUwBQAFEAXABIAHUAcwBzAGUAaQBuMB4XDTI2MDgwOTIyMzI1M1oXDTI3MDgxMDA0MzI1M1owOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQAyAFIAMAA5AFMAUABRAFwASAB1AHMAcwBlAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA3RibzzC5ndGXoIRKWsibLdCy9U4wqgdxACZTUAd0OG4sUB1SeujlZqiVxsnyC8VYkHQ9JzzlrTNEg/dIykE4TbslKb6c702+TZq2/v/qg7X2ZJBtLixt/KbRl6WOilQ1nR8Q0ALiKpvPtKIXVEgNIQmHvT/vzT/oYfXoy1GKcwECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCxx8cjed3bk+UznjdxXPqvx0ltrwlf4eBNaqKKBq+H4k7+HMMN6DK2sl7s5pjR9EsFJ/a1uf7r6k8KuFql4exYbIF/1BH7ETLHa0JLXBHPxYw7nrr1sCQIAfuMTAwQdry3xCGet6hqtGiGfrDdt3cStYD2kLq3wn4vGR2++3h1nQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Code Genrator/Database/clsDataAccessSettings.cs" />
+    <File Path="Code Genrator/Database/clsDatabaseReader.cs" />
+    <File Path="Code Genrator/Genrator/clsDALGenrator.cs" />
+    <File Path="Code Genrator/Genrator/clsFileGenerator.cs" />
+    <File Path="Code Genrator/Genrator/clsGeneratorDTO.cs" />
+    <File Path="Code Genrator/Genrator/clsGenrateBLL.cs" />
+    <File Path="Code Genrator/Models/clsColumnInfo.cs" />
+    <File Path="Code Genrator/Models/clsTableInfo.cs" />
+  </Folder>
+  <Project Path="Code Genrator/Code Genrator.csproj" Id="2ea25e3e-28d9-4cb0-a057-03a90e49e1f3" />
+</Solution>
